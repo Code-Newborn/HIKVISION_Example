@@ -1,3 +1,4 @@
+# 若未扫描到Qt的MinGw编译套件，则在路径"C:\Users\Administrator\AppData\Local\CMakeTools\cmake-tools-kits.json"中进行手动添加
 cmake_minimum_required(VERSION 3.5)
 
 project(HIKVISION_Example LANGUAGES CXX)
